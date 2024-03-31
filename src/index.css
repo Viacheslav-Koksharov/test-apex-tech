@@ -1,0 +1,29 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Oswald", sans-serif;
+  background-color: #363636;
+}
+h4 {
+  color: beige;
+  margin: 0;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+.select {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.wrapper {
+  width: 90%;
+}
+
+.graph {
+  box-sizing: border-box;
+  padding: 10px;
+}
